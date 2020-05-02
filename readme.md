@@ -1,1 +1,1 @@
-## Базовый образ с MONO для oscript
+## Образ с mono для oscript 
